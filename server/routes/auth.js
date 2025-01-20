@@ -76,7 +76,7 @@ router.get("/kakao/callback", async (req, res) => {
         httpOnly: true,
         domain: process.env.COOKIE_DOMAIN,
       })
-      .redirect(redirectMap.get(state) || "http://localhost:3000");
+      .redirect(redirectMap.get(state) || "http://172.10.7.66:3000");// Godot 앱의 URL 추가하기
   } catch (error) {
     console.error(
       "Kakao Authentication Error:",

@@ -54,5 +54,5 @@ app.get("/", async (req, res) => {
 // 서버 실행
 const PORT = 5000;
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Server running on http://172.10.7.66:${PORT}`);
 });
