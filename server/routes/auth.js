@@ -4,8 +4,8 @@ const userService = require("../services/auth/user.service");
 const utils = require("../utils/utils");
 const jwtService = require("../services/auth/jwt.service");
 const authMiddleware = require("../middleware/auth.middleware");
+const { sendToAllClients } = require("../index");
 const router = express.Router();
-
 const redirectMap = new Map();
 
 router.get("/me", authMiddleware, async (req, res) => {
@@ -68,6 +68,16 @@ router.get("/kakao/callback", async (req, res) => {
     }
 
     const user = await userService.getUserBySocialId(userResponse.data.id);
+
+    // WebSocket으로 사용자 정보 전송
+    
+    sendToAllClients({
+      type: "USER_LOGIN",
+      data: {
+        id: user._id,
+        nickname: user.nickname,
+      },
+    });
 
     const token = jwtService.createToken(user);
 
