@@ -9,7 +9,15 @@ server.on('connection', (ws) => {
 
     ws.on('message', (message) => {
         console.log(`Received: ${message}`);
-        ws.send(`Server received: ${message}`);
+        try {
+            const data = JSON.parse(message); // JSON 형식의 메시지를 파싱
+            console.log("Parsed data:", data);
+
+            // 클라이언트에 응답 보내기
+            ws.send(JSON.stringify({ type: "ACK", message: "Message received!" }));
+        } catch (error) {
+            console.error("Failed to parse message:", error);
+        }
     });
 
     ws.on('close', () => {
