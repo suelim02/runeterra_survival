@@ -120,25 +120,7 @@
 
 ## #게임 플레이 화면
 
-![입장.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/d443b1df-58c3-4255-9b2a-75923c149292/%EC%9E%85%EC%9E%A5.png)
-
-![2게임시작.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/9f6fde7a-333c-4c47-a7fc-422dbd678e85/2%EA%B2%8C%EC%9E%84%EC%8B%9C%EC%9E%91.png)
-
-![4업그레이드.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/155446c6-eddc-4414-9998-70510c335a13/4%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C.png)
-
-![3몬스터 도감.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/a15ee1d7-5119-4d74-b03e-4cf45303c842/3%EB%AA%AC%EC%8A%A4%ED%84%B0_%EB%8F%84%EA%B0%90.png)
-
-![스크린샷 2025-01-23 181330.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/b3038360-3fdc-4dd5-931f-ee483a8d28be/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-01-23_181330.png)
-
-![5캐릭터선택창.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/6c053804-74be-4b7a-a621-165de94a1072/5%EC%BA%90%EB%A6%AD%ED%84%B0%EC%84%A0%ED%83%9D%EC%B0%BD.png)
-
-![6플레이예시.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/22c59e9a-dacc-4aea-84b5-6a7082b65f86/6%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%88%EC%8B%9C.png)
-
-![7레벨업.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/8d5fffe1-9aad-4691-9bbc-a8b50b90fa0e/7%EB%A0%88%EB%B2%A8%EC%97%85.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/481a0d4a-cb07-417e-a103-b9fe144c7cce/image.png)
-
-![8실패.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/cae46750-d777-48f1-8fe4-90ce4aec12db/8%EC%8B%A4%ED%8C%A8.png)
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/8706a7c9-6906-4fb8-8660-2b24909950dd" />
 
 </aside>
 
