@@ -1,4 +1,5 @@
-![leona_main.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f6cb388f-3934-47d6-9928-26d2e10eb0fc/057aabea-cbba-4436-a9cb-c286c7151b86/leona_main.png)
+
+![leona_main](https://github.com/user-attachments/assets/17b5ceb0-9479-4096-973c-76aec23b6287)
 
 <aside>
 
